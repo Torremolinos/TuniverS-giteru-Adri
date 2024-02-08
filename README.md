@@ -25,4 +25,4 @@ Eliminar remotos
 
 `git remote remove Nombre_Organizacion`
 
-`git `
+`git   `
